@@ -1,0 +1,6 @@
+/Users/wesbrown/Documents/Godot/First-Person-Controller/.mono/temp/bin/Tools/First Person Controller.dll
+/Users/wesbrown/Documents/Godot/First-Person-Controller/.mono/temp/bin/Tools/First Person Controller.pdb
+/Users/wesbrown/Documents/Godot/First-Person-Controller/.mono/temp/obj/Tools/First Person Controller.csprojAssemblyReference.cache
+/Users/wesbrown/Documents/Godot/First-Person-Controller/.mono/temp/obj/Tools/First Person Controller.csproj.CoreCompileInputs.cache
+/Users/wesbrown/Documents/Godot/First-Person-Controller/.mono/temp/obj/Tools/First Person Controller.dll
+/Users/wesbrown/Documents/Godot/First-Person-Controller/.mono/temp/obj/Tools/First Person Controller.pdb

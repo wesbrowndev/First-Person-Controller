@@ -2,8 +2,6 @@ using Godot;
 using System;
 
 public class Player : KinematicBody {
-    [Export] NodePath HeadObj;
-
     [Export] float MouseSensitivity = 0.3f;
     [Export] float MaxCameraAngle = 90;
     [Export] float MinCameraAngle = -90;
@@ -33,8 +31,8 @@ public class Player : KinematicBody {
     bool flying;
 
     public override void _Ready () {
-        head = GetNode <Spatial> (HeadObj);
-        mainCamera = head.GetChild <Camera> (0);
+        head = GetNode <Spatial> ("Head");
+        mainCamera = GetNode <Camera> ("Head/Camera");
     }
 
     public override void _Input (InputEvent @event) {
